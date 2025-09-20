@@ -35,7 +35,6 @@ pip install -r requirements.txt
 ```
 
 Required packages include:
-- `boto3`
 - `pandas`
 - `transformers`
 - `sentence-transformers`
